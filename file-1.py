@@ -1,0 +1,5 @@
+print ("Welcome to the World of Programming")
+print (4)
+print ("Hello Pthon \n")
+print ("hello", 5)
+print ("Welcome to", end= "*")
