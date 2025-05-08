@@ -1,0 +1,6 @@
+print ("Storing Birthday Dates")
+print ("Phalak - 11th Jan")
+print ("Aryahi - 12th Feb")
+print ("Bhoomi - 10th Jan")
+print ("Janya - 21st May")
+print ("Khanak - 22nd Oct")
